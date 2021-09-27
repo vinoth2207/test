@@ -9,6 +9,6 @@ public class Test {
 		
 		System.out.println("Person 2");
 
+		System.out.println("Person 3");
 	}
-
 }
